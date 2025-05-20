@@ -19,9 +19,5 @@
   </project>
 
   <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/blossom" name="proprietary_vendor_xiaomi_blossom" remote="astechpro20" revision="Udon_v2" />
-
-  <!-- RevampedFMRadio -->
-  <project path="packages/apps/RevampedFMRadio" name="android_packages_apps_RevampedFMRadio" remote="astechpro20" revision="main" />
-  
+  <project path="vendor/xiaomi/blossom" name="proprietary_vendor_xiaomi_blossom" remote="astechpro20" revision="Udon_v2" />  
 </manifest>
