@@ -19,5 +19,5 @@
   </project>
 
   <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/blossom" name="proprietary_vendor_xiaomi_blossom" remote="finite-codez" revision="Udon_v2" />  
+  <project path="vendor/xiaomi/blossom" name="proprietary_vendor_xiaomi_blossom" remote="finite-codez" revision="lineage-22.2" />  
 </manifest>
